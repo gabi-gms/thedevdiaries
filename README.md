@@ -8,9 +8,9 @@ Registro público da minha evolução como desenvolvedora após uma pausa na car
 
 ## 🎯 Estudando agora
 
-**Foco atual:** Fundamentos
-**Desde:** Junho de 2026
-**Objetivo:** Revisar e fortalecer a base e os fundamentos de programação após muito tempo sem programar
+- **Foco atual:** Fundamentos
+- **Desde:** Junho de 2026
+- **Objetivo:** Revisar e fortalecer a base e os fundamentos de programação após muito tempo sem programar
 
 ---
 
