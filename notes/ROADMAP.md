@@ -1,7 +1,5 @@
 # Roadmap Completo para Formação Fullstack
 
-# NÍVEL 1 — INICIANTE
-
 ## Fundamentos da computação
 
 ### [ESSENCIAL] Funcionamento geral de um computador
