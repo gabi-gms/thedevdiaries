@@ -52,4 +52,4 @@ Comecei na área há alguns anos, mas após uma pausa na carreira por motivos pe
 
 Além disso, eu passei muito tempo estudando sintaxe e corrigindo bugs de código alheio. Aqui ocnstará o registro da transição: de quem conserta o que já existe para quem constrói do zero.
 
-<!-- Escrever todo dia serve a três propósitos: me obriga a nomear o que aprendi, cria histórico de que o progresso existiu mesmo nos dias que não pareceu, e transforma estudo em material publicável. -->
+> Escrever todo dia serve a três propósitos: me obriga a nomear o que aprendi, cria histórico de que o progresso existiu mesmo nos dias que não pareceu, e transforma estudo em material publicável.
