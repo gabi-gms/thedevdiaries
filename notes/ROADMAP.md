@@ -3,9 +3,9 @@
 ## Fundamentos da computação
 
 ### [ESSENCIAL] Funcionamento geral de um computador
-- [ ] Processador, memória RAM, armazenamento e dispositivos de entrada e saída.
-- [ ] Diferença entre hardware e software.
-- [ ] Como um programa é carregado e executado.
+- [x] Processador, memória RAM, armazenamento e dispositivos de entrada e saída.
+- [x] Diferença entre hardware e software.
+- [x] Como um programa é carregado e executado.
 
 ### [ESSENCIAL] Sistemas operacionais
 - [ ] Função de um sistema operacional.

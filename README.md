@@ -18,7 +18,7 @@ Registro público da minha evolução como desenvolvedora após uma pausa na car
 
 | Mês | Dias registrados | Destaque |
 |---|---|---|
-| Jul/2026 | 0 | — |
+| Jul/2026 | 1 | — |
 
 ---
 
@@ -28,8 +28,8 @@ Registro público da minha evolução como desenvolvedora após uma pausa na car
 .
 ├── README.md          ← você está aqui
 ├── 2026/
-│   └── 27.07.md       ← registro diário
-|   └── 28.07.md      
+│   └── 28.07.md       ← registro diário
+|   └── 29.07.md      
 │    
 └── notes/             ← notas técnicas que valem ficar públicas
 ```
