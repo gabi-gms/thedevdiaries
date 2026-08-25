@@ -8,8 +8,8 @@ Registro público da minha evolução como desenvolvedora após uma pausa na car
 
 ## 🎯 Estudando agora
 
-- **Foco atual:** Fundamentos
-- **Desde:** Junho de 2026
+- **Foco atual:** Fundamentos da computação e aprimoramento de repertório
+- **Desde:** Agosto de 2026
 - **Objetivo:** Revisar e fortalecer a base e os fundamentos de programação após muito tempo sem programar
 
 ---
@@ -18,7 +18,7 @@ Registro público da minha evolução como desenvolvedora após uma pausa na car
 
 | Mês | Dias registrados | Destaque |
 |---|---|---|
-| Jul/2026 | 1 | — |
+| ago/2026 | 1 | — |
 
 ---
 
@@ -27,11 +27,14 @@ Registro público da minha evolução como desenvolvedora após uma pausa na car
 ```
 .
 ├── README.md          ← você está aqui
-├── 2026/
-│   └── 28.07.md       ← registro diário
-|   └── 29.07.md      
+├── logs/
+│   └── 2026      
+|       └── 29.07.md   ← registro diário
 │    
-└── notes/             ← notas técnicas que valem ficar públicas
+├── knowledge          ← resumos técnicos
+├── repertoire         ← conhecimentos que agregam
+│  
+└── z.docs/              ← documentação e arquivos explicativos
 ```
 
 ---
