@@ -18,7 +18,7 @@ Registro público da minha evolução como desenvolvedora após uma pausa na car
 
 | Mês | Dias registrados | Destaque |
 |---|---|---|
-| ago/2026 | 1 | — |
+| set/2026 | 1 | — |
 
 ---
 
