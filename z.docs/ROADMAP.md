@@ -2,52 +2,52 @@
 
 ## Fundamentos da computação
 
-### [ESSENCIAL] Funcionamento geral de um computador
+### [REVISÃO] Funcionamento geral de um computador
 - [x] Processador, memória RAM, armazenamento e dispositivos de entrada e saída.
 - [x] Diferença entre hardware e software.
 - [x] Como um programa é carregado e executado.
 
-### [ESSENCIAL] Sistemas operacionais
+### [REVISÃO] Sistemas operacionais
 - [ ] Função de um sistema operacional.
 - [ ] Arquivos, diretórios, usuários, permissões e processos.
 - [ ] Diferenças gerais entre Windows, Linux e macOS.
 
-### Sistemas numéricos
+### [REVISÃO] Sistemas numéricos
 - [ ] Sistema decimal, binário e hexadecimal.
 - [ ] Conversão básica entre representações.
 - [ ] Representação de números na memória.
 
-### Representação de dados
+### [REVISÃO] Representação de dados
 - [ ] Bits e bytes.
 - [ ] Texto e Unicode.
 - [ ] Imagens, áudio e arquivos binários.
 - [ ] Unidades como KB, MB, GB e TB.
 
-### História e evolução da computação
+### [REVISÃO] História e evolução da computação
 - [ ] Linguagens compiladas e interpretadas.
 - [ ] Evolução da internet e da computação pessoal.
 - [ ] Surgimento da computação em nuvem.
 
 ## Terminal e ambiente de desenvolvimento
 
-### [ESSENCIAL] Linha de comando
+### [REVISÃO] Linha de comando
 - [ ] Navegação entre diretórios.
 - [ ] Criação, movimentação, cópia e remoção de arquivos.
 - [ ] Execução de programas.
 - [ ] Caminhos absolutos e relativos.
 
-### [ESSENCIAL] Terminal Linux
+### [REVISÃO] Terminal Linux
 - [ ] Comandos como `cd`, `ls`, `pwd`, `mkdir`, `cp`, `mv`, `rm` e `cat`.
 - [ ] Pipes e redirecionamento.
 - [ ] Variáveis de ambiente.
 - [ ] Permissões básicas.
 
-### Shell
+### [REVISÃO] Shell
 - [ ] Bash, PowerShell e outros shells.
 - [ ] Scripts simples.
 - [ ] Alias e configuração do terminal.
 
-### Instalação e gerenciamento de ferramentas
+### [REVISÃO] Instalação e gerenciamento de ferramentas
 - [ ] Variável `PATH`.
 - [ ] Interpretadores e runtimes.
 - [ ] Gerenciadores de pacotes.
@@ -56,7 +56,7 @@
 - [ ] JDK 21 ou 25 (LTS), Maven, Node.js, Docker e Docker Compose instalados.
 - [ ] PostgreSQL rodando em container.
 
-### [ESSENCIAL] Editor ou IDE
+### [REVISÃO] Editor ou IDE
 - [ ] Organização do workspace.
 - [ ] Extensões.
 - [ ] Busca global.
@@ -66,7 +66,7 @@
 - [ ] IntelliJ IDEA para Java: workspace, busca global, refatoração, terminal integrado, depurador.
 - [ ] VSCode para Angular: extensões, depuração no navegador.
 
-## Controle de versão
+## [REVISÃO] Controle de versão
  
 - [ ] Repositório, histórico, commit, estados de arquivo.
 - [ ] Fluxo básico: `init`, `add`, `commit`, `log`, `restore`.
@@ -78,7 +78,7 @@
 - [ ] `rebase`, `cherry-pick` e `reflog` — entender o propósito antes de usar.
 - [ ] Feature branches e trunk-based development em nível conceitual.
 
-## Lógica de programação
+## [REVISÃO] Lógica de programação
   
 - [ ] Algoritmo como sequência de instruções: entrada, processamento, saída.
 - [ ] Decompor problema grande em partes menores.
@@ -161,7 +161,7 @@ Comece aqui, não no fim. Todo código dos próximos blocos nasce com teste.
 
 > **Marco:** aplicação de console com regras de negócio não triviais, persistência em arquivo, tratamento de erros e no mínimo 20 testes. Necessário conseguir explicar por que cada classe existe.
  
-## Algoritmos e complexidade
+## [REVISÃO] Algoritmos e complexidade
  
 > O suficiente para entrevista e para não escrever código lento sem perceber.
  
@@ -174,7 +174,7 @@ Comece aqui, não no fim. Todo código dos próximos blocos nasce com teste.
 - [ ] Ordenação: merge sort conceitualmente, `Collections.sort` na prática.
 - [ ] Método de resolução: entender, criar exemplos, mapear casos extremos, implementar, testar, analisar complexidade.
 
-## Banco de dados relacional
+## [REVISÃO] Banco de dados relacional
  
 - [ ] Modelagem: entidades, atributos, relacionamentos, cardinalidade.
 - [ ] Tabelas, linhas, colunas, chave primária e estrangeira.
@@ -189,7 +189,7 @@ Comece aqui, não no fim. Todo código dos próximos blocos nasce com teste.
 - [ ] `EXPLAIN` para ler um plano de execução simples.
 - [ ] Migrations com Flyway: versionar schema como se versiona código.
 
-## Redes e HTTP
+## [REVISÃO] Redes e HTTP
  
 - [ ] Modelo cliente-servidor, IP, portas, protocolos.
 - [ ] DNS e resolução de nomes.
@@ -263,7 +263,7 @@ Comece aqui, não no fim. Todo código dos próximos blocos nasce com teste.
 
 > **Marco:** API REST completa com autenticação JWT, CRUD com regras reais, paginação, validação, tratamento global de erro, migrations, documentação OpenAPI e testes de unidade e integração.
  
-## HTML e acessibilidade
+## [REVISÃO] HTML e acessibilidade
  
 - [ ] Estrutura de um documento HTML.
 - [ ] HTML semântico: cabeçalhos, navegação, conteúdo principal, seções, artigos, rodapé.
@@ -271,7 +271,7 @@ Comece aqui, não no fim. Todo código dos próximos blocos nasce com teste.
 - [ ] Acessibilidade: navegação por teclado, labels, contraste, texto alternativo, foco, leitores de tela.
 - [ ] ARIA apenas quando o HTML semântico não for suficiente.
 
-## CSS
+## [REVISÃO] CSS
  
 - [ ] Cascata, especificidade e herança.
 - [ ] Box model e seletores.
@@ -285,7 +285,7 @@ Comece aqui, não no fim. Todo código dos próximos blocos nasce com teste.
 - [ ] Estados de interface: carregando, erro, sucesso, lista vazia, desabilitado.
 - [ ] Hierarquia visual, consistência, feedback e prevenção de erro.
 
-## JavaScript
+## [REVISÃO] JavaScript
  
 - [ ] Sintaxe, tipos, `const` e `let`, escopo de bloco, hoisting em nível conceitual.
 - [ ] Arrays e objetos, desestruturação, spread.
@@ -347,7 +347,7 @@ Comece aqui, não no fim. Todo código dos próximos blocos nasce com teste.
 
 > **Marco:** sistema completo no ar, com URL pública, repositório organizado e um comando para subir tudo localmente.
  
-## Uso de IA sem se sabotar
+## Inteligência Artifical como copilota
  
 - [ ] Como um modelo de linguagem funciona: tokens, contexto, probabilidade.
 - [ ] Limitações: alucinação, contexto incompleto, conhecimento desatualizado, código que roda mas é inseguro.

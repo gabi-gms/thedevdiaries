@@ -1,4 +1,4 @@
-# 📖 Learning Log — DD/MM/YYYY
+# 📖 Log de Aprendizado — DD/MM/YYYY
 
 > `keyword` `keyword` `keyword`
 
