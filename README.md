@@ -27,14 +27,17 @@ Registro público da minha evolução como desenvolvedora após uma pausa na car
 ```
 .
 ├── README.md          ← você está aqui
-├── logs/
+├── 1.logs/
 │   └── 2026      
-|       └── 29.07.md   ← registro diário
-│    
+|       └── 29.07.md   ← registro de conteúdo consumido
+│ 
+├── 2.exercises/       ← registro de exercícios resolvidos
+│ 
+|   
 ├── knowledge          ← resumos técnicos
-├── repertoire         ← conhecimentos que agregam
+├── repertoire         ← resumos e insights que agregam
 │  
-└── z.docs/              ← documentação e arquivos explicativos
+└── z.docs/            ← documentação e arquivos explicativos
 ```
 
 ---
