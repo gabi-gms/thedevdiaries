@@ -7,7 +7,7 @@
 - [ ] Arrays e strings
 - [ ] Configuração de ambiente (JDK, IDE — IntelliJ recomendado)
 
-> **Recursos sugeridos:** - Documentação oficial Java (Oracle Java Tutorials) — seção "Language Basics"; - Exercícios de lógica no estilo HackerRank/Exercism (trilha Java) 1/15
+> **Recursos sugeridos:** `Documentação oficial Java (Oracle Java Tutorials) — seção "Language Basics"` `Exercícios de lógica no estilo HackerRank/Exercism (trilha Java) 1/15`
 
 > **Entrega da semana:** resolver ao menos 25 exercícios pequenos de lógica (sem estrutura de projeto ainda).
 
