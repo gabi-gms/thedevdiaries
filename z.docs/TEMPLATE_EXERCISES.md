@@ -6,7 +6,7 @@
 
 [Escreva aqui o problema que foi solucionado.]  
 
-## Solução
+## Minha Solução
 
 [Registre aqui a solução do problema.]  
 

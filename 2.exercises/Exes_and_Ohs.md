@@ -17,7 +17,7 @@ XO("zpzpzpp") => true // when no 'x' and 'o' is present should return true
 XO("zzoo") => false
 ```
 
-## Construção de repertório
+## Minha Solução
 
 ```
 public class XO {
